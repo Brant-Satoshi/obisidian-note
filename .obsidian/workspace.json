@@ -27,16 +27,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/JDK JRE.md",
+                "file": "Solidity/Grammer/3、Selector 函数选择器.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JDK JRE"
+              "title": "3、Selector 函数选择器"
+            }
+          },
+          {
+            "id": "20bcbf9ad99a610b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "go/channel/channel 数据类型.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "channel 数据类型"
+            }
+          },
+          {
+            "id": "15a5663f4c20d9a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Solidity/Foundry/foundry-zksync.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "foundry-zksync"
+            }
+          },
+          {
+            "id": "3b48eae34074b0cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ETH/ETH DataBase.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ETH DataBase"
+            }
+          },
+          {
+            "id": "9a76f5ce4e8fbda6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wallet/6.Ethereum 钱包调研和基础代码实战.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.Ethereum 钱包调研和基础代码实战"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +125,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -183,41 +239,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "debdac539fd69561",
+  "active": "20bcbf9ad99a610b",
   "lastOpenFiles": [
-    "#img/Pasted image 20250227172313.png",
-    "#img/Pasted image 20250227005431.png",
-    "#img/Pasted image 20250227004444.png",
-    "Bitcoin/协议.md",
-    "Bitcoin/1、区块链基础.md",
-    "go/go 语言.md",
-    "Solidity/Hardhat/local node.md",
-    "#img",
-    "img",
-    "Pasted image 20250227004444.png",
-    "Solidity/Grammer/Solidty 基础语法.md",
-    "Solidity/Hardhat/local_node.md",
-    "Solidity/Hardhat",
-    "go/切片.md",
-    "gRPC/HD 钱包.md",
-    "gRPC/ProtoBuffe.md",
-    "git/git 用法.md",
+    "go/channel",
+    "go/map/原理  底层实现.md",
+    "go/channel/channel 数据类型.md",
+    "go/map/用法.md",
+    "go/go 原生库/sync 同步模块.md",
+    "go/go 原生库/context标准库.md",
+    "go/map",
+    "房价/房价会跌到哪.md",
+    "Pasted image 20250816024932.png",
+    "Pasted image 20250816022954.png",
+    "go/make 和 new 的区别.md",
+    "database/psql/常用命令.md",
+    "go/interview",
+    "database/psql",
+    "go/interface/interface.md",
+    "go/urfavecli/urfave cli 介绍.md",
+    "go/urfavecli/Context.md",
+    "go/go 原生库",
+    "go/urfavecli/FLAG 类型.md",
+    "database/MySQL/索引/索引语法.md",
+    "go/urfavecli",
+    "database/MySQL/索引/索引结构.md",
+    "Pasted image 20250814182609.png",
+    "database/MySQL/imgs/Pasted image 20250814181522.png",
+    "database/MySQL/imgs/Pasted image 20250814181304.png",
+    "database/MySQL/索引/B 树 和 B+ 树.md",
+    "database/MySQL/imgs/Pasted image 20250813235651.png",
+    "database/MySQL/存储引擎/存储引擎介绍.md",
+    "database/MySQL/imgs/Pasted image 20250813234737.png",
+    "database/MySQL/imgs/Pasted image 20250813232317.png",
+    "go/interface",
+    "database/MySQL/imgs/Pasted image 20250813040229.png",
+    "database/MySQL/imgs/Pasted image 20250813034129.png",
+    "database/MySQL/SQL/事务.md",
+    "database/MySQL/SQL.md",
+    "database/MySQL/存储引擎",
+    "database/Untitled",
+    "database/MySQL/索引",
+    "database/MySQL/基本概念.md",
+    "database/MySQL/SQL/函数.md",
+    "database/MySQL/SQL/DML.md",
+    "database/MySQL/SQL/DDL.md",
+    "database/MySQL/SQL/多表查询.md",
+    "database/MySQL/SQL/DQL.md",
     "README.md",
-    "Untitled.md",
-    "gRPC",
-    "Java/JDK JRE.md",
-    "Java",
-    "Untitled 1.md",
-    "go",
-    "Wallet/4、CEX 钱包业务流程细节.md",
-    "Wallet/3、钱包的密钥管理方式.md",
-    "Wallet/1、钱包的基本概念.md",
-    "Pasted image 20250227172313.png",
-    "Wallet/2、钱包相关密码学原理.md",
-    "Pasted image 20250227005431.png",
-    "Wallet",
-    "Solidity/Grammer",
-    "Solidity/SimpleStorage.sol",
-    "git"
+    "房价",
+    "Untitled.canvas"
   ]
 }
