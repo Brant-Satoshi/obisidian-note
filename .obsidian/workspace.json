@@ -41,26 +41,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "go/channel/channel 数据类型.md",
+                "file": "1.web3/ETH/交易格式 EIP-1559 & Legacy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "channel 数据类型"
+              "title": "交易格式 EIP-1559 & Legacy"
+            }
+          },
+          {
+            "id": "dd4bf809e15e0914",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Mark.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mark"
             }
           },
           {
             "id": "15a5663f4c20d9a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Solidity/Foundry/foundry-zksync.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "foundry-zksync"
+              "title": "New tab"
             }
           },
           {
@@ -92,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -231,6 +241,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -239,54 +250,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "20bcbf9ad99a610b",
+  "active": "dd4bf809e15e0914",
   "lastOpenFiles": [
-    "go/channel",
-    "go/map/原理  底层实现.md",
-    "go/channel/channel 数据类型.md",
-    "go/map/用法.md",
-    "go/go 原生库/sync 同步模块.md",
-    "go/go 原生库/context标准库.md",
-    "go/map",
-    "房价/房价会跌到哪.md",
+    "1.web3/Solidity/Foundry/透明代理升级案例.md",
+    "English/Mark.md",
+    "English",
+    "1.web3/Solidity/Foundry/foundry-zksync.md",
+    "1.web3/Solidity/Grammer/1. 函数.md",
+    "1.web3/Solidity/Foundry/关键字区别.md",
+    "计算机基础/字节 位.md",
+    "frontend/npm pnpm yarn.md",
+    "frontend/package",
+    "1.web3/Solidity/Foundry/Untitled.md",
+    "frontend",
+    "1.web3/Solidity/Foundry/2、forge 命令.md",
+    "1.web3/Solidity/Foundry/1、Foundry.md",
+    "1.web3/Solidity/Grammer/Solidty 基础语法.md",
+    "1.web3/Solidity/Foundry/cast 指令.md",
+    "1.web3/区块链基础.md",
+    "1.web3/Solidity/Hardhat/local node.md",
+    "1.web3/Wallet/BIP/BIP-39 BIP-32 BIP-44.md",
+    "1.web3/Wallet/1、钱包的基本概念.md",
+    "1.web3/Wallet/BIP",
+    "1.web3/Wallet/项目/统一 RPC 封装.md",
+    "1.web3/Wallet/项目/签名机.md",
+    "1.web3/ETH/ETH 签名流程.md",
+    "1.web3/ETH/ETH 帐户.md",
+    "1.web3/ETH/交易格式 EIP-1559 & Legacy.md",
+    "1.web3/ETH/ERC 和 EIP.md",
+    "1.web3/ETH/ABI.md",
+    "1.web3/ETH/go-ethereum/Bytes().md",
+    "1.web3/Solidity/Grammer/2. ABI 是什么.md",
+    "1.web3/Solidity/Grammer/3、Selector 函数选择器.md",
+    "OS",
+    "1.web3/ETH/go-ethereum",
+    "1.web3",
+    "CI CD",
+    "go/工具",
+    "Pasted image 20250819165038.png",
+    "1.web3/Wallet/项目",
     "Pasted image 20250816024932.png",
     "Pasted image 20250816022954.png",
-    "go/make 和 new 的区别.md",
-    "database/psql/常用命令.md",
-    "go/interview",
-    "database/psql",
-    "go/interface/interface.md",
-    "go/urfavecli/urfave cli 介绍.md",
-    "go/urfavecli/Context.md",
-    "go/go 原生库",
-    "go/urfavecli/FLAG 类型.md",
-    "database/MySQL/索引/索引语法.md",
-    "go/urfavecli",
-    "database/MySQL/索引/索引结构.md",
     "Pasted image 20250814182609.png",
     "database/MySQL/imgs/Pasted image 20250814181522.png",
     "database/MySQL/imgs/Pasted image 20250814181304.png",
-    "database/MySQL/索引/B 树 和 B+ 树.md",
     "database/MySQL/imgs/Pasted image 20250813235651.png",
-    "database/MySQL/存储引擎/存储引擎介绍.md",
     "database/MySQL/imgs/Pasted image 20250813234737.png",
     "database/MySQL/imgs/Pasted image 20250813232317.png",
-    "go/interface",
     "database/MySQL/imgs/Pasted image 20250813040229.png",
-    "database/MySQL/imgs/Pasted image 20250813034129.png",
-    "database/MySQL/SQL/事务.md",
-    "database/MySQL/SQL.md",
-    "database/MySQL/存储引擎",
-    "database/Untitled",
-    "database/MySQL/索引",
-    "database/MySQL/基本概念.md",
-    "database/MySQL/SQL/函数.md",
-    "database/MySQL/SQL/DML.md",
-    "database/MySQL/SQL/DDL.md",
-    "database/MySQL/SQL/多表查询.md",
-    "database/MySQL/SQL/DQL.md",
-    "README.md",
-    "房价",
     "Untitled.canvas"
   ]
 }
